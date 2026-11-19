@@ -116,3 +116,149 @@ h1 span, .section-title span { color:var(--accent); }
   .content-section { scroll-margin-top:90px; }
 }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration:.01ms !important; transition-duration:.01ms !important; scroll-behavior:auto !important; } }
+/* INFO CARD INTERACTION */
+
+.info-card {
+  cursor: pointer;
+  transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.info-card:hover {
+  transform: translateY(-6px);
+}
+
+.card-hint {
+  display: inline-block;
+  margin-top: 16px;
+  color: var(--accent);
+  font-size: .85rem;
+  font-weight: 600;
+}
+
+
+/* POPUP OVERLAY */
+
+.popup-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 99999;
+
+  display: none;
+  align-items: center;
+  justify-content: center;
+
+  padding: 20px;
+  background: rgba(0, 0, 0, .55);
+
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.popup-overlay.active {
+  display: flex;
+}
+
+
+/* POPUP BOX */
+
+.popup-box {
+  position: relative;
+  width: min(750px, 100%);
+  max-height: 85vh;
+  overflow-y: auto;
+
+  padding: clamp(24px, 5vw, 45px);
+  border-radius: 24px;
+
+  background: #B1BCA0;
+  color: #303A27;
+
+  border: 1px solid rgba(255, 255, 255, .4);
+  box-shadow: 0 25px 80px rgba(0, 0, 0, .3);
+
+  animation: popup-in .25s ease;
+}
+
+@keyframes popup-in {
+  from {
+    opacity: 0;
+    transform: translateY(15px) scale(.97);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+
+/* CLOSE BUTTON */
+
+.popup-close {
+  position: absolute;
+  top: 15px;
+  right: 20px;
+
+  border: none;
+  background: transparent;
+  color: #303A27;
+
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.popup-close:hover {
+  color: var(--accent);
+}
+
+
+/* POPUP CONTENT */
+
+.popup-box h2 {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  margin-bottom: 20px;
+  padding-right: 30px;
+}
+
+.popup-box p {
+  line-height: 1.8;
+  margin-bottom: 16px;
+}
+
+.popup-box h3 {
+  margin: 24px 0 10px;
+}
+
+
+/* ART SLIDESHOW */
+
+.art-slideshow {
+  position: relative;
+  margin-top: 25px;
+}
+
+.art-slideshow img {
+  display: block;
+  width: 100%;
+  height: 350px;
+  object-fit: contain;
+  border-radius: 14px;
+  background: rgba(0, 0, 0, .08);
+}
+
+.slide-caption {
+  text-align: center;
+  margin-top: 12px;
+  font-size: .9rem;
+  opacity: .8;
+}
+
+@media (max-width: 600px) {
+  .popup-box {
+    padding: 25px 20px;
+  }
+
+  .art-slideshow img {
+    height: 230px;
+  }
+}
