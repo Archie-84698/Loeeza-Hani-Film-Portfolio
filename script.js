@@ -264,19 +264,18 @@ Confronting the reality of mortality during that time in the hospital prompts a 
     title: "IVS Film Festival.",
     content: `
       <p>
-        yap
+        This september, Indus Valley of Arts & Architecture, hosted a 4-day bootcamp + film festival, in association with SOC. I attended this event with my friends and we went together as a group naming ourselves 'Canon Event'. During these three days we learned alot more perspectives about filming, which not only increased my skills and confidence but taught me that filming can be fun. We debated long about what our film should be about, in the end we decided that for a 2 minute film with the creative freedom we have why don't we make something meaningful? We chose the topic of percentages. We wanted to highlight the issue that despite getting good grades, if your percentage isn't suffiicent to your desired university's recquirements they will not accept you nor treat you as anything above a percentage. It is a mark that defines you before you do by your actions. We were really doubtful about our work while we shot and edited it. What if it turns out wrong? What is the message doesn't go across to the audience? What if our hardwork goes to waste along with our spirits? But despite all that, we won the film festival. It was the biggest achievement of our lives, and it gave me the confidence to keep working towards this goal of highlighting socail issues and making films, because they really DO have an impact.
       </p>
 
       <h3>The Yap</h3>
 
       <p> <iframe width="560" height="315" src="https://www.youtube.com/embed/Mrj4jdeQzDQ?si=KVhLWnw4-ahFfyzL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        AAAAAAAAAAA
+       
       </p>
 
-      <h3>What I've Yapped</h3>
-
+    
       <p>
-        The yap ends :(
+       This accomplishment was a milestone for me, I'm grateful for that opportunity and I hope I get such opportunities in future as well.
       </p>
     `
   },
@@ -285,17 +284,17 @@ Confronting the reality of mortality during that time in the hospital prompts a 
     title: "Other projects.",
     content: `
       <p>
-        a
+        Other than film making and story publishing, I have another project planned for future. 
       </p>
 
-      <h3>b?</h3>
+      <h3>Publishing my Own comic</h3>
 
       <p>
-        c!.
+        As you know, I possess artistic skills that I beleive should take a form of story telling as well, and I want it to take form as a comic, I have many original charachter plans laid out for this project and I plan on making a small team of artists with similar art to mine and writers to refine my narrative into a more immersive storyline.
       </p>
 
       <p>
-        dih
+        The name of the comic will be "Earth 3.0". While this is a more fun leaning project, I want to show characters from different nations surviving in a world where people with an infection survive against masses despite belonging from different backgrounds. I want it to promote a friendly relation between charachters from different nations. I beleive in the concept of "We are what we consume" so if we consume content promoting positivity, ultimately it will impact our behaviour as a society.
       </p>
     `
   }
