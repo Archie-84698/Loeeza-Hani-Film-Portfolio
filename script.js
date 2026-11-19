@@ -48,15 +48,15 @@ let currentSlide = 0;
 // ART IMAGES
 
 const artImages = [
-  "images/art1.jpg",
-  "images/art2.jpg",
-  "images/art3.jpg"
+  "images/art 7.jpg",
+  "images/art 2.jpg",
+  "images/art 3.jpg"
 ];
 
 const artCaptions = [
-  "image uno",
-  "image zwei.",
-  "teesra chitr"
+  "I recently started sketching and this is my first sketch piece, I decided to make an artpiece inspired by 'Dead Poet's Society'.",
+  "Recently I took an interest in semi realistic portraits and this is my first art piece in that medium as well.",
+  "This is another digital art piece inspired by a book charachter."
 ];
 
 
@@ -68,7 +68,7 @@ const popupData = {
     title: "art.",
     content: `
       <p>
-        any people learn the alphabet, then how to communicate, and then how to write it down; it's a normal way of how communication is embedded into our very being.
+        Many people learn the alphabet, then how to communicate, and then how to write it down; it's a normal way of how communication is embedded into our very being.
         However, I began my journey with scribbles that weren’t the alphabet, not even close. I started my communication through art. 
         You see at the ripe age of 2, my mother brought a set of wonderful books, the book set was a project by Total Development Program (TDP) Values books; A Child's First Library of Values, which was a 15-volume storybook collection published by ETL Learning, and she made me a bedtime routine where she would pick a book each day and read me a bedtime story until I fell asleep, the very first books I read were filled with beautiful and colorful illustrations and even more beautiful messages. 
         Though I never understood the stories or their depths at such a young age, I was able to process the art. And that’s how the butterfly effect began for me. 
@@ -97,21 +97,114 @@ const popupData = {
     title: "My writing.",
     content: `
       <p>
-        yap
+      Reading has been one of my earliest habits and hobbies. I have always loved to sit in a quiet corner and read a good book and imagine the story playing out like a movie in my head. And I distinctly remember it was the eve of 2022; I was reading an R.L. Stine book from his Goosebumps series, and I thought to myself, if he can write such fascinating stories, why can’t I? And after thinking about it for a week or two, I picked up my laptop and Google Docs and started writing the first few chapters of a story inspired to be mysterious and creepy like his books, but with my own flair of imagination and storyline. And to this day, I am determined to finish writing what I began as a 14-year-old with an inferiority complex into a novel that I hope people read and genuinely enjoy.
       </p>
 
       <p>
-       yap.
+       And by the age of 16, I was practically bursting with ideas, and I couldn’t hold the discipline of finishing my first one that I started working on another one simultaneously. Both the novels became something that lived rent-free in my head all day long, during classes, before I slept, while I ate, or just stared into space. However, after I started O-level studies, I did not have ample time to give to my studies and my hobbies simultaneously. So, to this day, I am struggling with writing them both down but I know once I graduate, I will hopefully have the time to complete both novels from just drafts to full-length novels.
       </p>
 
-      <h3>A little excerpt</h3>
+      <h3>Novel name: Puer Bellator</h3>
 
       <p>
-        "Socki da greatest."
+        "I am helpless, homeless, penniless and hunger is devouring my strength.
+The cold streets I have been walking on have numbed my bare feet. I hope I find…hope.
+I’ve passed many busy streets, but no one even looked at me…That’s a good sign.
+​
+But it was getting colder, and I needed a shelter desperately. But what if someone recognizes me and sends me back? I noticed a poster about me a few streets back, but they looked old, and I looked different, healthier back then.
+​                      
+“It'd be impossible for anyone to recognize me now”
+           ​
+I look totally different, I'm not the same pretty boy anymore…
+​My stomach growls again. I need to eat something. Hunger made my vision go black, and the sickening pain in my stomach is getting unbearable. Ugh. Clutching my stomach, I kept walking silently in the little streets until I came across a small alley surrounded by two large brown buildings. It had two old dumpsters that reeked strongly of trash juice, but at least it was warmer than the other, more open allies I just passed. Looking around, I found a box big enough to fit me. Exhausted and weak from hunger, I lay inside. It was cold, but at least it was dry. My stomach growled again. I groaned this time. It hurts.  Out of desperation, I stood up again and walked around the dumpsters trying to find something edible, anything. Instead, I hear footsteps; someone is heading towards this alley. Scared, I hid behind the dumpster near me, and I was correct, someone was walking this way. A woman was passing by, and she had a bag, and to my surprise and horror, she threw it in the box that was supposed to be my bed and walked away, never once looking in my direction.
+​
+As soon as she disappeared, I rushed towards my box. The bag was definitely not filled with food as I had hoped, so I threw it away, and I lay back inside. If I can’t find food, I can sleep the hunger away, right?
+​
+Soon exhaustion took its toll, replacing my pain with deep sleep.
+                                                               …
+​
+“Oh ho ho, look what we got here”, someone says. My eyes flutter open. I adjust my vision as a man comes into my view. I gasped. Not only was he huge and bulky enough to squeeze me to death in a second, but he was also ugly, and everything about him screamed evil.
+He definitely did NOT look like a good person. I jolt up, jumping out of the box, nearly tripping myself, looking straight at the man, the fear inside me restrained me from running away.
+​
+“Look at you, such pretty eyes”, he sneers, bending down, until I could feel his bad breath hitting my face.
+​
+“Black and Blue, eh? ” he continues smiling creepily, “You must be worth a fortune” That is what made my breath stop. Same disgusting monsters everywhere.
+Everywhere.
+​
+“ I escaped once, I'm not going again”.
+​
+I ran as fast as my numb feet could carry me.
+​
+“Hey! Get back here!” He barks, running after me. I glanced behind once, and he was gaining on me. But lucky for me, I’m petite and can fit through small spaces. I turn down a few streets, adrenaline rushing in my veins as I climb a fenced wall, not once looking behind me.
+It has to be them; they must’ve sent him to find me.
+Not a single person was out on the streets, just me and that monster. I ran harder and faster, I turned through many streets, I was running out of breath, still hungry and tired, but it wasn’t worth losing my freedom. I kept running.
+       
+ “I escaped once, not again. I escaped once I am not getting caught again.”
+​
+I don't know how long I ran, until I started to realize that I didn't recognize when I reached a quiet neighborhood. Finally, I came to a halt in a backstreet; there was nowhere else to run. I looked behind me, but no one was there. I was safe.
+I slump against a wall, huffing and gasping for air, relief washing over my nerves.
+I close my eyes, calming my nerves. My thoughts race. Who could it have been? Was it really-
+​
+“H-hello? A voice calls out. It was definitely a man.
+​
+Oh no, they found me!                                     
+​
+I couldn’t tell who it was, but I am not taking any chances.
+​Out of fear, I quickly looked around me for anything, any weapon for my defense.
+
+I'm not going down this time.
+
+Bags of trash, rags and aha! GLASS!  A broken glass bottle lay near my feet. I picked it up, but I still didn't look behind me to see who it was. I couldn’t face whoever it was.
+​
+The only thing that mattered to me was my freedom.
+​
+I escaped once, and I am not going back there to suffer again…       
+​
+Hot tears well in my eyes. I don’t want to hurt anyone, but I don’t really have a choice.
+​
+“Who is it?” It was the same voice, he sounded near, and then a torch reflected on my back, I prepared myself. I closed my eyes before I turned behind, facing my opponent.
+​
+Don’t look until you strike. Don’t look until you strike!
+
+
+And I ran towards that person.
+
+
+It all happened in a flash…
+My eyes flew open as soon as I jumped, and what I saw before me made me regret my choice.
+It wasn't the vile man from earlier, nor was it someone from that orphanage. Instead, it was a boy, a bit older than me. Blonde Curly hair falling on his eyes, delicate features decorated his pale almond face. I looked up in his alarmed eyes, blue eyes, they were kind. For a second, he reminded me of my brother. I  could not control my momentum as I flew towards him.
+​
+Stop Adam! Stop!...please don’t hurt him…
+​
+SLASH
+​
+But it was too late…
+
+The glass pierced the boy’s hand.
+He yells out in pain, the phone slips from his grasp as he clutches the wound I carved. He didn’t look up at me, still wincing, just clutching his hand and steadying his breath. Blood drips down his fingers onto the concrete.
+​
+“I-I am sorry, I-” Tears dared to spill from my eyes, something about him reminded me of Abi…
+He looks up at me, as if reading my expression.
+“Did you mistake me for someone else?” he asks. There was no anger in his voice; he sounded concerned. How can someone be so calm after what I just did?
+​
+Why is he not hitting me? Why? The bottle slips from my grasp, crashing on my feet, the shards piece my feet as blood spilt everywhere, but I did not care, for what I saw in that boy’s eyes was Kindness.
+​
+“Oh my god, are you okay?” he rushed forward, stepping carefully. Ignoring his own bloody hand, ignoring what I just did...to ask for my well-being? Me? A cursed child like me?..
+​
+Nobody even cared about my existence after I lost everything….
+​
+Suddenly, I wanted to hug him. I wanted his comfort. Because I know one thing for sure, he won’t hurt me… mindlessly, I took a step forward. I want to hug him. But as soon as I did, the broken shards of glass pierced my flesh, and pain surged through me, bringing me back to reality. I yell in pain, but before I could do anything. The boy picks me up and runs.
+“Don’t worry, I've got you. I won’t hurt you'' he pants as he runs with me in his arms. He saw. He cared.
+​
+“Why?” I wanted to ask. But the hunger and the pain and sheer exhaustion rushed back to me, I closed my eyes.
+Why…? I caused you pain, yet you still decided to help me…      
+​
+The blonde-haired boy ran with me in his arms. I could feel his trembling arms as he ran. His bloody hand wrapped around me. It was clear his hand was hurting, but he did not care. And after what felt like an eternity, I finally felt safe and let myself drift into unconsciousness.
+"
       </p>
 
       <p>
-        cool summary.
+      -The end-.
       </p>
     `
   },
