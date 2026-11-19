@@ -236,9 +236,9 @@ The blonde-haired boy ran with me in his arms. I could feel his trembling arms a
     content: `
       <p>
         Now that I'm in A2, the caie recquirement is for a 5 minute length film. I really wanted to highlight the academic pressure and its impact on us; students' mental health. 
+        Altho I have not shot it yet, as there are other pre production factors under development [E.g: Script and final storyboard] Here is an overview:
       </p>
       
-     <img src="WIGU.jpg" alt="Film postcard">
 
       <h3> "When I grow up" An Synopsis of an A-level media studies short film </h3>
 
