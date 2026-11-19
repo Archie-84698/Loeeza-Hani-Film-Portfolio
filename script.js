@@ -39,7 +39,7 @@ const popupClose = document.getElementById("popupClose");
 const popupTitle = document.getElementById("popupTitle");
 const popupBody = document.getElementById("popupBody");
 
-const infoCards = document.querySelectorAll(".info-card");
+const infoCards = document.querySelectorAll(".info-card, .project-card");
 
 let slideshowInterval = null;
 let currentSlide = 0;
