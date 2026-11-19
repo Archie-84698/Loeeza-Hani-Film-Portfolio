@@ -239,7 +239,6 @@ The blonde-haired boy ran with me in his arms. I could feel his trembling arms a
         Altho I have not shot it yet, as there are other pre production factors under development [E.g: Script and final storyboard] Here is an overview:
       </p>
       
-
       <h3> "When I grow up" An Synopsis of an A-level media studies short film </h3>
 
       <p>
