@@ -220,7 +220,7 @@ The blonde-haired boy ran with me in his arms. I could feel his trembling arms a
       This was my chance to make that dream come true. And so, like that, I started working on my AS opening sequence, and during that time, making a 2-minute sequence with my desired topic, which was psychological mystery, was a huge challenge.  
       </p>
 
-      <p><a href=“https://youtu.be/LJtCEt_WNfE?si=bZUc9hYuXOMwPUoy”>text you want to show</a><p>
+      <p><a target=“_blank” href=“https://youtu.be/LJtCEt_WNfE?si=bZUc9hYuXOMwPUoy”>"Memories"</a><p>
 
       <p>
       My as opening was basically based on the concept of the 7 minutes of memories passing through a person's head before they pass away. Even though that was just the inspiration, I wanted it to show how dementia affects memory, but with a touch of unease. As Riyaz [the character] receives his pictures from the past in a box, as his memories go back to his younger years they're covered in blood or tainted in some sorts to show how his memories are not realiable anymore, in the end he reaches a picture of his own funeral, and before he can decipher that it hinted at his own death, a door knocks, meaning death has arrived.
