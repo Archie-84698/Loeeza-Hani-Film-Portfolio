@@ -50,19 +50,13 @@ let currentSlide = 0;
 const artImages = [
   "images/art 7.jpg",
   "images/aer 2.jpg",
-  "images/art 3.jpg",
-  "images/art 4.jpg",
-  "images/art 1.jpg",
-  "images/art 8.jpg"
+  "images/art 3.jpg"
 ];
 
 const artCaptions = [
   "I recently started sketching and this is my first sketch piece, I decided to make an artpiece inspired by 'Dead Poet's Society'.",
   "Recently I took an interest in semi realistic portraits and this is my first art piece in that medium as well.",
   "This is another digital art piece inspired by a book charachter."
-  "This is one of my original charachters for my ongoing comic making project."
-  "This is the second art piece I had made while experimenting with semi realistic portrait designing."
-  "I painting this art peice featuring an angel, he hold s a flickering light while hands above try to reach for it, the angel is surrounded by two contrasting sceneries, nature and manmade pillars, beneath the pillar lies skulls and blood symbolising the wrath humanity brings on itself, while the nature preserves itself, the angel is conflicted with what to protect and remains as it is protecting its own light"
 ];
 
 
