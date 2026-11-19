@@ -65,7 +65,7 @@ const artCaptions = [
 const popupData = {
 
   art: {
-    title: "art.",
+    title: "Art.",
     content: `
       <p>
         Many people learn the alphabet, then how to communicate, and then how to write it down; it's a normal way of how communication is embedded into our very being.
@@ -235,22 +235,26 @@ The blonde-haired boy ran with me in his arms. I could feel his trembling arms a
     title: "A2 Film.",
     content: `
       <p>
-        random bs
+        Now that I'm in A2, the caie recquirement is for a 5 minute length film. I really wanted to highlight the academic pressure and its impact on us; students' mental health. 
       </p>
 
-      <h3>heading</h3>
+      <h3> "When I grow up" An Synopsis of an A-level media studies short film </h3>
 
       <p>
-        bs
-      </p>
+       The story follows a talented young individual with diverse hobbies who has aspired to be a pilot from a young age. Throughout childhood, they consistently achieved outstanding grades and was praised as a gifted child with a bright future. However, as they enters the critical stage of grades 11 / 12, essential for college acceptance and choosing a degree to pursue based on grades.
 
-      <h3>heading</h3>
+Their grades start to slip from outstanding to average, and ultimately below average. Confused and overwhelmed, the student sacrifices their passions and hobbies in a desperate effort to focus solely on their studies. Despite these sacrifices, there is no improvement in their performance. The pressure mounts as disappointment from parents grows, and disapproval from teachers, along with financial stress, weighs heavily on them.
+
+As midterms approach, they studies diligently, hopeful for a turnaround. After finishing an exam, they clean their room and discover an old toy airplane. Picking it up brings back a rush of nostalgia and memories of the promises made to their younger self about becoming a pilot.
+      </p>
 
       <p>
-        bs
+        The screen cuts to black, and then we see results day. They failed by just two marks. The crushing blow takes a toll on their health, leading to severe panic attack and a heart crisis that lands them in the hospital for an extended period of time.
+
+Confronting the reality of mortality during that time in the hospital prompts a significant realization that life does not end with one failed dream. As they recovers, they pick up a nearby booklet and a dried-up pen and begins to draw a plane. They realize that if they can’t be a pilot in this life, they can still achieve so many other things. Perhaps, in this new perspective, the people around them will come to agree.
       </p>
 
-      <p>ending</p>
+    
     `
   },
 
