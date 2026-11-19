@@ -49,7 +49,7 @@ let currentSlide = 0;
 
 const artImages = [
   "images/art 7.jpg",
-  "images/art 2.jpg",
+  "images/aer 2.jpg",
   "images/art 3.jpg"
 ];
 
@@ -210,24 +210,24 @@ The blonde-haired boy ran with me in his arms. I could feel his trembling arms a
   },
 
   film: {
-    title: "thing i forgor.",
+    title: "Memories || An AS level opening sequence",
     content: `
       <p>
-        zap
+       I started A levels last year, and among my three subjects was Media Studies.  From the beginning of my first year, I took media seriously; it was that one subject I looked forward to because of how interesting it was and becuse it was on my bucket list to make a film one day. This was my chance to make that dream come true. 
       </p>
 
       <p>
-        zap2
+      This was my chance to make that dream come true. And so, like that, I started working on my AS opening sequence, and during that time, making a 2-minute sequence with my desired topic, which was psychological mystery, was a huge challenge.  
       </p>
 
-      <h3>subheading if needed</h3>
+      <p><a href=“https://youtu.be/LJtCEt_WNfE?si=bZUc9hYuXOMwPUoy”>text you want to show</a><p>
 
       <p>
-        yap
+      My as opening was basically based on the concept of the 7 minutes of memories passing through a person's head before they pass away. Even though that was just the inspiration, I wanted it to show how dementia affects memory, but with a touch of unease. As Riyaz [the character] receives his pictures from the past in a box, as his memories go back to his younger years they're covered in blood or tainted in some sorts to show how his memories are not realiable anymore, in the end he reaches a picture of his own funeral, and before he can decipher that it hinted at his own death, a door knocks, meaning death has arrived.
       </p>
 
       <p>
-        yap
+        
       </p>
     `
   }
